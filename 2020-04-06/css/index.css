@@ -1,0 +1,8 @@
+
+.phoneBox .card{
+    float: left;
+    margin:10px 13px;
+}
+.phoneBox .card h5{
+    font-size: 16px;
+}
